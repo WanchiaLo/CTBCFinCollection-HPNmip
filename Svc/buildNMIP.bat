@@ -1,0 +1,1 @@
+MSBuild.exe D:\hpe\HPNmip\HPNmip\HPNmip.csproj /t:rebuild /p:Configuration=Release
